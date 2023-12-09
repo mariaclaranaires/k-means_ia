@@ -11,4 +11,4 @@ Requisitos:
 - Utilizar o coeficiente de silhueta como métrica de avaliação da qualidade do aprendizado.
 
 Dataset:
-[Housing Price Prediction Data](https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data/data)
+[Customer Clustering](https://www.kaggle.com/datasets/dev0914sharma/customer-clustering/data)

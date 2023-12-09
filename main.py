@@ -30,7 +30,7 @@ plt.scatter(df['Age'][y_predict == 4], df['Income'][y_predict == 4], s = 100,
 plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:, 1], 
             s = 300, c = 'yellow', label = 'Centroid')   
 
-plt.title('Clusters de clientes')  
+plt.title('Clusters de Clientes')  
 plt.xlabel('Idade dos Clientes')  
 plt.ylabel('Renda dos Clientes')  
 plt.legend()  
